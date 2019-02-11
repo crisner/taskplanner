@@ -8,7 +8,6 @@ class App extends Component {
       <BrowserRouter>
         <div className="App">
           <Navbar />
-          <h1>TaskPlanner</h1>
         </div>
       </BrowserRouter>
     );
